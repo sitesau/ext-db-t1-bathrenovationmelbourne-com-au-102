@@ -1,0 +1,22 @@
+{
+  "wheel_id": 557,
+  "structure": "umbrella",
+  "slug": "ext-db-t1-bathrenovationmelbourne-com-au-102",
+  "project": "bath-renovation-melbourne-beginner-guide-ba36032d61a87c9097ac2a",
+  "parent_t1_ref": "ext-db-t1-bathrenovationmelbourne-com-au-150",
+  "node_role": "feeder",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bath renovation melbourne beginner guide",
+  "intended_url": "https://sitesau.github.io/ext-db-t1-bathrenovationmelbourne-com-au-102/",
+  "tier": "T2",
+  "writeback_nonce": "f186ea6072f0dd3d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/bath-renovation-melbourne-af47b53e1610f6692f233100887e00795b7a0/",
+      "anchor": "this bath renovation melbourne resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
